@@ -1,4 +1,4 @@
-.env
+.env-dev
 .vscode
 .python-version
 __pycache__

@@ -1,0 +1,6 @@
+Flask
+GitHub-Flask
+gunicorn
+# dev packages
+pytest
+responses
